@@ -25,4 +25,4 @@ services or not.
 
 # Dataset
 The dataset used in this project is available in the Kaggle and contains nineteen columns that indicate the characteristicsof the clients of a fictional 
-telecommunications corporation. The Churn column indicates whether the customer departed within the last monthor not. 
+telecommunications corporation. The Churn column indicates whether the customer departed within the last month or not. 
