@@ -4,7 +4,7 @@ obtain the relation between the customer’s characteristics and the churn. and 
 services or not.
 
 # Contents :
-1- Bussiness problem definition
+1- Business problem definition
 
 2-Importing data
 
@@ -24,5 +24,5 @@ services or not.
 
 
 # Dataset
-The dataset used in this project is available in the Kaggle and contains nineteen columns that indicate the characteristicsof the clients of a fictional 
+The dataset used in this project is available in the Kaggle and contains nineteen columns that indicate the characteristics of the clients of a fictional 
 telecommunications corporation. The Churn column indicates whether the customer departed within the last month or not. 
