@@ -1,7 +1,7 @@
 # Project Description
 In this project i walked through the machine learning projects lifecycle using the Telco customer Churn dataset.The objective of the analysis is to 
 obtain the relation between the customer’s characteristics and the churn. and then to develope a model that predicts if the customer is going to churn the company's
-services or not. Alos i explained the project steps on my personal blog on medium here : https://medium.com/@khaledeemam/churn-prediction-with-machine-learning-a-project-lifecycle-walkthrough-5163efdb0b94
+services or not. Also i explained the project steps on my personal blog on medium here : https://medium.com/@khaledeemam/churn-prediction-with-machine-learning-a-project-lifecycle-walkthrough-5163efdb0b94
 
 # Contents :
 1- Business problem definition
